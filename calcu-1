@@ -1,0 +1,8 @@
+a = int(input("ingrese la long- del lado 1:"))
+b = int(input("ingrese la long. del lado 2"))
+superficie = a*b
+
+print("Rectagunlo de lados")
+print("Lado 1:", a)
+print("Lado 2:", b)
+print("Superficie total:", superficie)
